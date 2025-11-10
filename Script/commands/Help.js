@@ -80,7 +80,7 @@ module.exports.handleEvent = function ({ api, event, getText }) {
         command.config.commandCategory || "Unknown",  
         command.config.cooldowns || 0,  
         prefix,  
-        global.config.BOTNAME || "─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾"  
+        global.config.BOTNAME || "─꯭─⃝‌‌MAHIYA 👾"  
     );  
 
     downloadImages(files => {  
@@ -110,7 +110,7 @@ module.exports.run = function ({ api, event, args, getText }) {
             command.config.commandCategory || "Unknown",  
             command.config.cooldowns || 0,  
             prefix,  
-            global.config.BOTNAME || "─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾"  
+            global.config.BOTNAME || "─꯭─⃝‌‌MAHIYA 👾"  
         );  
 
         downloadImages(files => {  
@@ -143,8 +143,8 @@ module.exports.run = function ({ api, event, args, getText }) {
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾"}
-┃ 👑 Owner: 𝐄𝐕𝐀𝐍 𝐌𝐀𝐋𝐋𝐈𝐊 🩷🪽
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "─꯭─⃝‌‌MAHIYA 👾"}
+┃ 👑 Owner: MAHIYA 🩷🪽
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  
