@@ -34,7 +34,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
  const msg = `╭⭓ ⪩ 𝐁𝐎𝐓𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 ⪨
 │
-├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾
+├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌MAHIYA 👾
 ├─ ☢️ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${config.PREFIX}
 ├─ ♻️ 𝗣𝗿𝗲𝗳𝗶𝘅 𝗕𝗼𝘅 : ${prefix}
 ├─ 🔶 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 : ${commands.size}
@@ -44,13 +44,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : 𝐄𝐕𝐀𝐍 𝐌𝐀𝐋𝐋𝐈𝐊 🩷🪽
+├─ 👑 𝗡𝗮𝗺𝗲 : MAHIYA 🩷🪽
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ https://www.facebook.com/ev4u.mallik
+│ https://www.facebook.com/thu.m.ma.m.go.m.ma.m.hi.m.a.m.pa.m
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ https://m.me/ev4u.mallik
+│ https://m.me/thu.m.ma.m.go.m.ma.m.hi.m.a.m.pa.m
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-│ https://WA.me/+8801400465471
+│ https://WA.me/+8801840423414
 │
 ╰───────⭓
 
@@ -62,13 +62,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- ─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾`;
+ ─꯭─⃝‌‌MAHIYA 👾`;
 
  const imgLinks = [
- "https://i.imgur.com/XISuzSt.jpeg",
- "https://i.imgur.com/9kBCBRF.jpeg",
- "https://i.imgur.com/ehv0Nz6.jpeg",
- "https://i.imgur.com/2qi2ve9.jpeg"
+ "https://i.imgur.com/AqO4xSe.jpeg",
+ "https://i.imgur.com/AqO4xSe.jpeg",
+ "https://i.imgur.com/AqO4xSe.jpeg",
+ "https://i.imgur.com/AqO4xSe.jpeg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
