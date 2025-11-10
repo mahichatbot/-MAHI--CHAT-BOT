@@ -32,7 +32,7 @@ module.exports.languages = {
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
 ┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝐄𝐕𝐀𝐍 𝐌𝐀𝐋𝐋𝐈𝐊 🩷🪽
+┃ 👑 Owner: MAHIYA 🩷🪽
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/XISuzSt.jpeg",
-    "https://i.imgur.com/9kBCBRF.jpeg",
-    "https://i.imgur.com/ehv0Nz6.jpeg",
-    "https://i.imgur.com/2qi2ve9.jpeg"
+    "https://i.imgur.com/AqO4xSe.jpeg",
+    "https://i.imgur.com/AqO4xSe.jpeg",
+    "https://i.imgur.com/AqO4xSe.jpeg",
+    "https://i.imgur.com/AqO4xSe.jpeg",
 ];
 
 
