@@ -36,8 +36,8 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 『 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 』
 
 ➤ 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅 : [ ${prefix} ]
-➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : ─꯭─⃝‌‌𝐄𝐕𝐀𝐍-𝐌𝐀𝐋𝐋𝐈𝐊 👾
-➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : 𝐄𝐕𝐀𝐍 𝐌𝐀𝐋𝐋𝐈𝐊 🩷🪽
+➤ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲   : ─꯭─⃝‌‌MAHIYA 👾
+➤ 𝗕𝗼𝘁 𝗔𝗱𝗺𝗶𝗻 : MAHIYA 🩷🪽
 
 『 𝐁𝐎𝐗 𝐈𝐍𝐅𝐎 』
 
@@ -47,10 +47,10 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 
 『 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 』
 
-➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝐄𝐕𝐀𝐍 𝐌𝐀𝐋𝐋𝐈𝐊 🩷🪽
-➤ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸    : https://www.facebook.com/ev4u.mallik
-➤ 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿  : https://m.me/ev4u.mallik
-➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://WA.me/+8801400465471
+➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : MAHIYA 🩷🪽
+➤ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸    : https://www.facebook.com/thu.m.ma.m.go.m.ma.m.hi.m.a.m.pa.m
+➤ 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿  : https://m.me/thu.m.ma.m.go.m.ma.m.hi.m.a.m.pa.m
+➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://WA.me/+8801840423414
 
 🌟━━━━━━━━━━━━━━━━━🌟
 　　　　𝗧𝗵𝗮𝗻𝗸 𝗬𝗼𝘂 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴!
